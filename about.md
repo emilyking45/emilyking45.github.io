@@ -1,8 +1,9 @@
 ---
-layout: page
-title: About
+layout: post
+title: "Hello World" 
 ---
 
+This is my first blog post. yay! 
 <p class="message">
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p>
